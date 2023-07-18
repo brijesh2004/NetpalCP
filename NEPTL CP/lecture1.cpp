@@ -1,4 +1,4 @@
-// revertsort algorith 
+// revertsort algorith cost
 #include<bits/stdc++.h>
 using namespace std;
 int reversort(vector<int>v){
